@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#visitor answer to visit the farm
+#visitor answer to visit the zoo
 answer = "yes"
 
 print("********************************** WELCOME TO Dallas ZOO******************************************"+"\n\n")
